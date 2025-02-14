@@ -1,0 +1,6 @@
+.terraform/
+.terraform.lock.hcl
+
+secrets.yaml
+controlplane.yaml
+worker.yaml
